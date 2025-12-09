@@ -71,8 +71,7 @@ The easiest way to start is by running gui.py and using its built-in controls to
  Once the GUI opens, look for the Process Controls section and launch the other scripts (parser.py) (ai.py).
 This will launch each script in its own separate background process, and the GUI will start updating with data almost immediately.
 
-![App Screenshot]("https://drive.google.com/file/d/1_lRibCneAuWFNmzQt1xS1ziQTtuxDOj1/view?usp=sharing")
-
+Screenshot of the gui: https://drive.google.com/file/d/1_lRibCneAuWFNmzQt1xS1ziQTtuxDOj1/view?usp=sharing
 
 ## Limitations
 
